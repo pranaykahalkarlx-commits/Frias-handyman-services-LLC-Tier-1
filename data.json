@@ -1,0 +1,69 @@
+{
+  "businessName": "Frias handyman services, LLC",
+  "category": "Professional Services",
+  "phone": "+1 (234) 567-890",
+  "email": "info@yourbusiness.com",
+  "address": {
+    "full": "123 Business Street, Suite 100",
+    "street": "123 Business Street",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10001",
+    "neighborhood": ""
+  },
+  "location": {
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  "rating": 5,
+  "totalReviews": 3,
+  "hero": {
+    "headline": "Your Trusted Handyman Experts in Aurora, Colorado",
+    "subheadline": "Experience reliable craftsmanship and clear communication for every home project.",
+    "cta_text": "Get a Free Estimate"
+  },
+  "aboutUs": "At Frias handyman services, LLC, we are dedicated to providing Aurora, Colorado with professional, reliable, and high-quality handyman solutions. Our commitment to exceptional craftsmanship and clear communication ensures a smooth and satisfactory experience for every client, from start to finish.",
+  "services": [
+    {
+      "name": "Handyman Services",
+      "description": "Frias handyman services, LLC offers a comprehensive range of professional handyman solutions to keep your Aurora home in top condition. From minor repairs to essential home improvements, count on our reliable craftsmanship and attention to detail. We ensure clear communication and efficient service for every task."
+    }
+  ],
+  "testimonials": [],
+  "uniqueSellingPoints": [
+    "Professional Service Guaranteed",
+    "Reliable Craftsmanship",
+    "Clear Communication",
+    "Local Aurora Experts"
+  ],
+  "design": {
+    "primaryColor": "#2A64AC",
+    "secondaryColor": "#F2C94C",
+    "style": "modern"
+  },
+  "metaDescription": "Professional business services - Contact us for expert solutions",
+  "keywords": [
+    "business services",
+    "professional solutions"
+  ],
+  "openingHours": [
+    {
+      "day": "Monday - Friday",
+      "hours": "9:00 AM - 6:00 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "By Appointment"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "googleMaps": "",
+  "mainImage": "",
+  "yearEstablished": "2009",
+  "status": {
+    "permanently_closed": false
+  }
+}
